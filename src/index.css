@@ -1,17 +1,17 @@
-body {
-  margin: 0;
-  font-family:
-    -apple-system,
-    BlinkMacSystemFont,
-    'Segoe UI',
-    'Roboto',
-    'Oxygen',
-    'Ubuntu',
-    'Cantarell',
-    'Fira Sans',
-    'Droid Sans',
-    'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.wapp {
+  color: #5cd766;
+}
+
+.lkin {
+  color: #2866c2;
+}
+
+.body {
+  font-family: 'Cormorant Garamond', serif;
+}
+
+.navcol {
+  background-color: #14274e;
+  border: none;
+  color: #f1f6f9;
 }
