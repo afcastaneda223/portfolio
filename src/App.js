@@ -1,12 +1,13 @@
 import Navbar from './components/Navbar';
+import Home from './components/Home';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <Navbar />
-        <h1 className="text-center">Hello React</h1>
-      </header>
+      <Navbar />
+      <body>
+        <Home />
+      </body>
     </div>
   );
 }
