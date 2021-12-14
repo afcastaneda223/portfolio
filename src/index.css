@@ -24,7 +24,7 @@
 }
 
 ::-webkit-scrollbar {
-  width: .8em;
+  width: 0.8em;
 }
 
 ::-webkit-scrollbar-track {
@@ -32,10 +32,10 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #9BA4B4;
+  background: #9ba4b4;
   border-radius: 100vw;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #F1F6F9;
+  background: #f1f6f9;
 }
